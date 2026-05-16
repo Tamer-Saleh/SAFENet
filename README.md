@@ -1,7 +1,3 @@
-# SAFENet
-SAFE-Net for flood detection from bi-temporal SAR image pairs.
-
-# Flood Detection and Mapping
 
 # SAFE-Net: Flood mapping from SAR imagery with a shift-attention and frequency-gated vision transformer
 
