@@ -43,7 +43,7 @@ Dataset | Name | Link
 :-:|:-:|:-:
 Ombria-Net | `OmbriaS1` | [source](https://ieeexplore.ieee.org/document/9723593)
 DAM-Net | `S1GFloods` | [source](https://www.sciencedirect.com/science/article/pii/S0924271624002168)
-New-Dataset | `S1GFloods+7` | [source][baidu drive](https://pan.baidu.com/s/1SkFGxfFIf7nDIIbDI4Zlrg?pwd=i8tm) Passward: (i8tm)
+New-Dataset | `S1GFloods+7` | [baidu drive](https://pan.baidu.com/s/1SkFGxfFIf7nDIIbDI4Zlrg?pwd=i8tm) Passward: (i8tm)
 
 
 ### :point_right: Data Structure
@@ -51,18 +51,18 @@ New-Dataset | `S1GFloods+7` | [source][baidu drive](https://pan.baidu.com/s/1SkF
 ```yaml
 For S1GFloods+7 dataset, please respect the following structure: 
 ├————train/
-|      ├———A/                                  Images of Time 1 before the flood event
-            ├———image_001.png
-            ...
-            ├———image_3622.png
-|      ├———B/                                 Images of Time 2 after the flood event
-            ├———image_001.png
-            ...
-            ├———image_3622.png           
-|      ├———GT/                                   Ground truth labels
-            ├———image_001.png
-            ...
-            ├———image_3622.png 
+|├———A/                                  Images of Time 1 before the flood event
+  ├———image_001.png
+   ...
+  ├———image_3622.png
+|├———B/                                 Images of Time 2 after the flood event
+  ├———image_001.png
+   ...
+  ├———image_3622.png           
+|├———GT/                                   Ground truth labels
+  ├———image_001.png
+   ...
+  ├———image_3622.png 
 ```
 
 
@@ -77,13 +77,13 @@ For S1GFloods+7 dataset, please respect the following structure:
 Method | Name | Link
 :-:|:-:|:-:
 :open_book:	:open_book:	 :open_book: DBF-Net | `DBF-Net` | [[paper here](https://ieeexplore.ieee.org/document/10848167)]
-WBA-Net | `WBA-Net` | [paper here](https://ieeexplore.ieee.org/document/10605827)
-GLA-Former | `GLA-Former` | [paper here](https://ieeexplore.ieee.org/document/10766648)
-CAS-Net | `CAS-Net` | [paper here ](https://ieeexplore.ieee.org/document/10504920)
-PA-Former | `PA-Former` | [paper here](https://ieeexplore.ieee.org/document/9863867)
-ViCxLSTM | `ViCxLSTM` | [paper here](https://www.sciencedirect.com/science/article/pii/S1569843225004480)
-BiSR-Net | `BiSR-Net` | [paper here](https://ieeexplore.ieee.org/document/9721305)
-SCan-Net | `SCan-Net` | [paper here](https://ieeexplore.ieee.org/document/10443352)
+:open_book:	:open_book:	 :open_book: WBA-Net | `WBA-Net` | [paper here](https://ieeexplore.ieee.org/document/10605827)
+:open_book:	:open_book:	 :open_book: GLA-Former | `GLA-Former` | [paper here](https://ieeexplore.ieee.org/document/10766648)
+:open_book:	:open_book:	 :open_book: CAS-Net | `CAS-Net` | [paper here ](https://ieeexplore.ieee.org/document/10504920)
+:open_book:	:open_book:	 :open_book: PA-Former | `PA-Former` | [paper here](https://ieeexplore.ieee.org/document/9863867)
+:open_book:	:open_book:	 :open_book: ViCxLSTM | `ViCxLSTM` | [paper here](https://www.sciencedirect.com/science/article/pii/S1569843225004480)
+:open_book:	:open_book:	 :open_book: BiSR-Net | `BiSR-Net` | [paper here](https://ieeexplore.ieee.org/document/9721305)
+:open_book:	:open_book:	 :open_book: SCan-Net | `SCan-Net` | [paper here](https://ieeexplore.ieee.org/document/10443352)
 
 
 ## Results
