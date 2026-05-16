@@ -31,9 +31,9 @@ Then activate the environment:
 conda activate SAFE_FD
 ```
 
-Download the datasets and place them in the `Benchmark` folder.
-
 ## Supported Datasets
+
+Download the datasets and place them in the `Benchmark` folder.
 
 Dataset | Name | Link
 :-:|:-:|:-:
