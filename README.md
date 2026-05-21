@@ -88,7 +88,7 @@ Method | Name | Link
 
 | Method    |Input size  | F1-score  |       Checkpoints      |
 | ------    |----------  | -------   | -------------          |
-| DBF-Net   | 256 × 256  | 53.3      | [google]() & [baidu](https://pan.baidu.com/s/1pKzx8dwHYPFRw_HAAo4oaQ 提取码: mkfg) |
+| DBF-Net   | 256 × 256  | 53.3      | [google]() & [baidu](https://pan.baidu.com/s/1I29tvP0iYvsX0XEysnoR9g?pwd=jh1i ) |
 | WBA-Net   | 256 × 256  | 52.9      | [google]() & [baidu]() |
 | GLA-Former| 256 × 256  | 65.7      | [google]() & [baidu]() |
 | CAS-Net   | 256 × 256  | 71.3      | [google]() & [baidu]() |
