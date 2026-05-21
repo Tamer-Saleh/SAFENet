@@ -1,8 +1,4 @@
-
-# SAFE-Net: Flood mapping from SAR imagery with a shift-attention and frequency-gated vision transformer
-<div align="center">
-
-<h1>DynamicEarth: How Far are We from Open-Vocabulary Change Detection?</h1>
+<h1>SAFE-Net: Flood mapping from SAR imagery with a shift-attention and frequency-gated vision transformer</h1>
 
 <div>
     <a href='https://likyoo.github.io/' target='_blank'>Kaiyu Li</a><sup>1</sup>&emsp;
