@@ -62,19 +62,68 @@ DAM-Net | `S1GFloods` | [source](https://www.sciencedirect.com/science/article/p
 New-Dataset | `S1GFloods+7` | [baidu drive](https://pan.baidu.com/s/1SkFGxfFIf7nDIIbDI4Zlrg?pwd=i8tm) Passward: (i8tm)
 
 
-### :point_right: Data Structure
+### :point_right: 📒 Folder Structure
 
-```yaml
-For S1GFloods+7 dataset, please respect the following structure: 
-train/
-     A/                        Images of Time 1 before the flood event
-     B/                        Images of Time 2 after the flood event          
-     GT/                        Ground truth labels
-test/
-     A/ 
-     B/            
-     GT/       
-```
+  Prepare the following folders to organize this repo:
+
+      rschangedetection
+          ├── SAFE (code)
+          ├── PRETRAINED (pvt_v2_b2.pth)
+          ├── WORK_DIR (save the model weights and training logs)
+          │   └─ checkpoints (the best models)
+          │   └─ test_metrics (the best test results)
+          │              ├─test_metrics.txt (the best test results)
+          │   └─ test_visualizations
+          │   └─ train_history (train & val results per epoch)
+          │   └─ val_results
+          └── Benchmark
+              ├── OmbriaS1
+              │   ├── train
+              │   │   ├── A                           Images of Time 1 before the flood event
+              │   │   │   └── S1_0001.png
+              │   │   ├── B                           Images of Time 2 after the flood event
+              │   │   │   └── S1_0001.png
+              │   │   └── GT                          Ground truth labels
+              │   │       └── S1_0001.png
+              │   ├── test (the same with train)
+              │  
+              ├── SIGFloods
+              │   ├── train
+              │   │   ├── A
+              │   │   │   └── S1_1.png
+              │   │   ├── B
+              │   │   │   └── S1_1.png
+              │   │   └── GT
+              │   │       └── S1_1.png
+              │   ├── test (the same with train)
+              │  
+              ├── SIGFloods+7
+              │   ├── train
+              │   │   ├── A
+              │   │   │   └── Brazil_0_1.png
+              │   │   │   └── Indonesia_0_1.png
+              │   │   │   └── Morocco_0_1.png
+              │   │   │   └── Mozambique_0_1.png
+              │   │   │   └── Portugal_0_1.png
+              │   │   │   └── Ukraine_0_1.png
+              │   │   │   └── USA_0_1.png
+              │   │   ├── B
+              │   │   │   └── Brazil_0_1.png
+              │   │   │   └── Indonesia_0_1.png
+              │   │   │   └── Morocco_0_1.png
+              │   │   │   └── Mozambique_0_1.png
+              │   │   │   └── Portugal_0_1.png
+              │   │   │   └── Ukraine_0_1.png
+              │   │   │   └── USA_0_1.png
+              │   │   └── GT
+              │   │       └── Brazil_0_1.png
+              │   │   │   └── Indonesia_0_1.png
+              │   │   │   └── Morocco_0_1.png
+              │   │   │   └── Mozambique_0_1.png
+              │   │   │   └── Portugal_0_1.png
+              │   │   │   └── Ukraine_0_1.png
+              │   │   │   └── USA_0_1.png
+              │   ├── test (the same with train)
 
 
 ## 1. Method
