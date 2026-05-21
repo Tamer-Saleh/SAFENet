@@ -1,4 +1,4 @@
-![demo](assets/DynamicEarth_logo.png)
+![demo](results/logl.png)
 <h1 align="center">SAFE-Net: Flood mapping from SAR imagery with a shift-attention and frequency-gated vision transformer</h1>
 
 <div>
