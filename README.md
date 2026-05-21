@@ -82,6 +82,37 @@ Method | Name | Link
 :open_book:	:open_book:	 :open_book: SCan-Net | `SCan-Net` | [paper here](https://ieeexplore.ieee.org/document/10443352)
 
 
+
+## Checkpoints
+### OmbriaS1
+
+| Method    |Input size  | F1-score  |       Checkpoints      |
+| ------    |----------  | -------   | -------------          |
+| DBF-Net   | 256 × 256  | 53.3      | [google]() & [baidu]() |
+| WBA-Net   | 256 × 256  | 52.9      | [google]() & [baidu]() |
+| GLA-Former| 256 × 256  | 65.7      | [google]() & [baidu]() |
+| CAS-Net   | 256 × 256  | 71.3      | [google]() & [baidu]() |
+| PA-Former | 256 × 256  | 76.7      | [google]() & [baidu]() |
+| ViCxLSTM  | 256 × 256  | 77.4      | [google]() & [baidu]() |
+| BiSR-Net  | 256 × 256  | 78.0      | [google]() & [baidu]() |
+| SCan-Net  | 256 × 256  | 81.3      | [google]() & [baidu]() |
+| SAFE-Net  | 256 × 256  | 85.3      | [google]() & [baidu]() |
+
+### S1GFloods
+
+| Method    |Input size  | F1-score  |       Checkpoints      |
+| ------    |----------  | -------   | -------------          |
+| DBF-Net   | 256 × 256  | 62.4      | [google]() & [baidu]() |
+| WBA-Net   | 256 × 256  | 88.7      | [google]() & [baidu]() |
+| GLA-Former| 256 × 256  | 93.6      | [google]() & [baidu]() |
+| CAS-Net   | 256 × 256  | 86.5      | [google]() & [baidu]() |
+| PA-Former | 256 × 256  | 95.9      | [google]() & [baidu]() |
+| ViCxLSTM  | 256 × 256  | 95.0      | [google]() & [baidu]() |
+| BiSR-Net  | 256 × 256  | 94.2      | [google]() & [baidu]() |
+| SCan-Net  | 256 × 256  | 96.2      | [google]() & [baidu]() |
+| SAFE-Net  | 256 × 256  | 96.8      | [google]() & [baidu]() |
+
+
 ## Results
 ### Quantitative
 ![image-20210228153142126](./results/tables.png)
