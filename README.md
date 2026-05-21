@@ -72,7 +72,7 @@ For S1GFloods+7 dataset, please respect the following structure:
 
 Method | Name | Link
 :-:|:-:|:-:
-:open_book:	:open_book:	 :open_book: DBF-Net | `DBF-Net` | [[paper here](https://ieeexplore.ieee.org/document/10848167)]
+:open_book:	:open_book:	 :open_book: DBF-Net | `DBF-Net` | [paper here](https://ieeexplore.ieee.org/document/10848167)
 :open_book:	:open_book:	 :open_book: WBA-Net | `WBA-Net` | [paper here](https://ieeexplore.ieee.org/document/10605827)
 :open_book:	:open_book:	 :open_book: GLA-Former | `GLA-Former` | [paper here](https://ieeexplore.ieee.org/document/10766648)
 :open_book:	:open_book:	 :open_book: CAS-Net | `CAS-Net` | [paper here ](https://ieeexplore.ieee.org/document/10504920)
@@ -88,7 +88,7 @@ Method | Name | Link
 
 | Method    |Input size  | F1-score  |       Checkpoints      |
 | ------    |----------  | -------   | -------------          |
-| DBF-Net   | 256 × 256  | 53.3      | [google]() & [baidu]() |
+| DBF-Net   | 256 × 256  | 53.3      | [google]() & [baidu](https://pan.baidu.com/s/1pKzx8dwHYPFRw_HAAo4oaQ 提取码: mkfg) |
 | WBA-Net   | 256 × 256  | 52.9      | [google]() & [baidu]() |
 | GLA-Former| 256 × 256  | 65.7      | [google]() & [baidu]() |
 | CAS-Net   | 256 × 256  | 71.3      | [google]() & [baidu]() |
