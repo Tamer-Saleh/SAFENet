@@ -66,8 +66,8 @@ New-Dataset | `S1GFloods+7` | [baidu drive](https://pan.baidu.com/s/1SkFGxfFIf7n
 
   Prepare the following folders to organize this repo:
 
-      rschangedetection
-          ├── SAFE (code)
+      SAR_Flood_Detection
+          ├── SAFENet (code)
           ├── PRETRAINED (pvt_v2_b2.pth)
           ├── WORK_DIR (save the model weights and training logs)
           │   └─ checkpoints (the best models)
