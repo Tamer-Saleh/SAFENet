@@ -82,7 +82,7 @@ Method | Name | Link
 ### OmbriaS1
 
 | Method    |Input size  | F1-score  |       Checkpoints      |
-| ------    |----------  | -------   | -------------          |
+:-:|:-:|:-:|:-:
 | DBF-Net   | 256 × 256  | 53.3      | [baidu](https://pan.baidu.com/s/1I29tvP0iYvsX0XEysnoR9g?pwd=jh1i ) |
 | WBA-Net   | 256 × 256  | 52.9      | [baidu](https://pan.baidu.com/s/1J2SwF10KSLP80WDmmj3fZw?pwd=rir3) |
 | GLA-Former| 256 × 256  | 65.7      | [baidu](https://pan.baidu.com/s/1V3DAbAHTwqXQWNsCTebeHA?pwd=n9a7) |
@@ -96,7 +96,7 @@ Method | Name | Link
 ### S1GFloods
 
 | Method    |Input size  | F1-score  |  Checkpoints   |
-| ------    |----------  | -------   | -------------  |
+:-:|:-:|:-:|:-:
 | DBF-Net   | 256 × 256  | 62.4      | [baidu]() |
 | WBA-Net   | 256 × 256  | 88.7      | [baidu]() |
 | GLA-Former| 256 × 256  | 93.6      | [baidu]() |
