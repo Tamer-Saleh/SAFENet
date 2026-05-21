@@ -1,4 +1,4 @@
-<h1>SAFE-Net: Flood mapping from SAR imagery with a shift-attention and frequency-gated vision transformer</h1>
+<h1 align="center">SAFE-Net: Flood mapping from SAR imagery with a shift-attention and frequency-gated vision transformer</h1>
 
 <div>
     <h4 align="center">
