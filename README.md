@@ -46,19 +46,14 @@ New-Dataset | `S1GFloods+7` | [baidu drive](https://pan.baidu.com/s/1SkFGxfFIf7n
 
 ```yaml
 For S1GFloods+7 dataset, please respect the following structure: 
-├————train/
-|├———A/                                  Images of Time 1 before the flood event
-  ├———image_001.png
-   ...
-  ├———image_3622.png
-|├———B/                                 Images of Time 2 after the flood event
-  ├———image_001.png
-   ...
-  ├———image_3622.png           
-|├———GT/                                   Ground truth labels
-  ├———image_001.png
-   ...
-  ├———image_3622.png 
+train/
+     A/                        Images of Time 1 before the flood event
+     B/                        Images of Time 2 after the flood event          
+     GT/                        Ground truth labels
+test/
+     A/ 
+     B/            
+     GT/       
 ```
 
 
