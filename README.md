@@ -89,13 +89,13 @@ Method | Name | Link
 | Method    |Input size  | F1-score  |       Checkpoints      |
 | ------    |----------  | -------   | -------------          |
 | DBF-Net   | 256 × 256  | 53.3      | [google]() & [baidu](https://pan.baidu.com/s/1I29tvP0iYvsX0XEysnoR9g?pwd=jh1i ) |
-| WBA-Net   | 256 × 256  | 52.9      | [google]() & [baidu]() |
-| GLA-Former| 256 × 256  | 65.7      | [google]() & [baidu]() |
-| CAS-Net   | 256 × 256  | 71.3      | [google]() & [baidu]() |
-| PA-Former | 256 × 256  | 76.7      | [google]() & [baidu]() |
-| ViCxLSTM  | 256 × 256  | 77.4      | [google]() & [baidu]() |
-| BiSR-Net  | 256 × 256  | 78.0      | [google]() & [baidu]() |
-| SCan-Net  | 256 × 256  | 81.3      | [google]() & [baidu]() |
+| WBA-Net   | 256 × 256  | 52.9      | [google]() & [baidu](https://pan.baidu.com/s/1J2SwF10KSLP80WDmmj3fZw?pwd=rir3) |
+| GLA-Former| 256 × 256  | 65.7      | [google]() & [baidu](https://pan.baidu.com/s/1V3DAbAHTwqXQWNsCTebeHA?pwd=n9a7) |
+| CAS-Net   | 256 × 256  | 71.3      | [google]() & [baidu](https://pan.baidu.com/s/1Z4hKwiHHNP3TraEK3gAYsw?pwd=u3cf) |
+| PA-Former | 256 × 256  | 76.7      | [google]() & [baidu](https://pan.baidu.com/s/1Cg5IceEfMwQXs3wCGECP_g?pwd=gvii) |
+| ViCxLSTM  | 256 × 256  | 77.4      | [google]() & [baidu](https://pan.baidu.com/s/1RF_dVf0_TexdKHO3b9JHEA?pwd=zje9) |
+| BiSR-Net  | 256 × 256  | 78.0      | [google]() & [baidu](https://pan.baidu.com/s/1axnF0VjWGOG7IHqJdspoKg?pwd=9hgc) |
+| SCan-Net  | 256 × 256  | 81.3      | [google]() & [baidu](https://pan.baidu.com/s/1lY-g7_ZJ_i_EU8rd8-2Hag?pwd=t1hr) |
 | SAFE-Net  | 256 × 256  | 85.3      | [google]() & [baidu]() |
 
 ### S1GFloods
