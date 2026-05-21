@@ -23,6 +23,12 @@
 </div>
 
 
+## 🔥 News
+
+  
+- `2026/05/21`: The official files of the environment preparation are now available.
+
+
 ## Requirements
 
 Before using this repository, make sure you have the following prerequisites installed:
@@ -218,6 +224,10 @@ Method | Name | Link
   doi = {},
   }
 ```
+
+## 📮 Contact
+
+If you are confused about the content of our paper or look forward to further academic exchanges and cooperation, please do not hesitate to contact us. The e-mail address is tamersaleh@whu.edu.cn. We look forward to hearing from you!
 
 ## License
 licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use), and models trained using the dataset should not be used outside of research purposes.
