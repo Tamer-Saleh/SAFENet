@@ -156,7 +156,7 @@ Method | Name | Link
 ```
 
 ## License
-The code and datasets are released for non-commercial and research purposes only.
+licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use), and models trained using the dataset should not be used outside of research purposes.
 
 ## Related resources
 - [ASF-Dataset](https://search.asf.alaska.edu/)
