@@ -1,0 +1,19 @@
+--- FINAL TEST SET METRICS ---
+
+METRICS: GRAND TOTAL (PIXEL-WISE ACCUMULATION)
+  TP_Total: 11097061.0
+  TN_Total: 23156451.0
+  FP_Total: 345972.0
+  FN_Total: 527812.0
+mIoU: 0.9453
+IoU: 0.9270
+F1-score: 0.9621
+Precision (P): 0.9698
+Recall (R): 0.9546
+Overall Accuracy (OA): 0.9751
+False Alarms (FA): 0.0098
+Missed Alarms (MA): 0.0150
+Overall Error (OE): 0.0249
+Kappa Coefficient (KC): 0.9436
+False Positive Rate (FPR): 0.0147
+False Negative Rate (FNR): 0.0454
