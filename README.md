@@ -1,26 +1,23 @@
 <h1>SAFE-Net: Flood mapping from SAR imagery with a shift-attention and frequency-gated vision transformer</h1>
 
 <div>
-    <a href='https://likyoo.github.io/' target='_blank'>Kaiyu Li</a><sup>1</sup>&emsp;
-    <a href='https://gr.xjtu.edu.cn/en/web/caoxiangyong' target='_blank'>Xiangyong Cao</a><sup>✉1</sup>&emsp;
-    <a href='https://github.com/BLING-1994' target='_blank'>Yupeng Deng</a><sup>2</sup>&emsp;
-    <a href='https://github.com/fitzpchao' target='_blank'>Chao Pang</a><sup>3</sup>&emsp;
-    <a href='https://github.com/xcarl1' target='_blank'>Zepeng Xin</a><sup>1</sup>&emsp;
-    <br>
-    <a href='' target='_blank'>Hui Qiao</a><sup>4</sup>&emsp;
-    <a href='https://gong-tl.github.io/' target='_blank'>Tieliang Gong</a><sup>1</sup>&emsp;
-    <a href='https://gr.xjtu.edu.cn/en/web/dymeng' target='_blank'>Deyu Meng</a><sup>1</sup>&emsp;
-    <a href='https://gr.xjtu.edu.cn/en/web/zhiwang' target='_blank'>Zhi Wang</a><sup>1</sup>&emsp;
+    <a href='[https://likyoo.github.io/](https://scholar.google.com/citations?hl=en&user=KAmm5ZkAAAAJ&view_op=list_works&sortby=pubdate)' target='_blank'>Tamer Saleh</a><sup>1,2</sup>&emsp;
+    <a href='[https://gr.xjtu.edu.cn/en/web/caoxiangyong](https://scholar.google.com/citations?user=SAUCVsEAAAAJ&hl=en)' target='_blank'>Gui-Song Xia</a><sup>✉1</sup>&emsp;
+    <a href='[https://github.com/BLING-1994](https://scholar.google.com/citations?user=-aVL-UQAAAAJ&hl=en)' target='_blank'>Wen Yang</a><sup>✉3</sup>&emsp;
+    <a href='' target='_blank'>Mohamed Ihmeida</a><sup>4</sup>&emsp;
+    <a href=''>Zhuohong Li</a><sup>5</sup>&emsp;
+    <a href='https://scholar.google.com/citations?user=WKKVqDgAAAAJ&hl=en' target='_blank'>Shimaa Holail</a><sup>6</sup>&emsp;
+
 </div>
 <div>
-    <sup>1</sup>Xi'an Jiaotong University&emsp;
-    <sup>2</sup>Chinese Academy of Sciences&emsp;
+    <sup>1</sup>Wuhan University&emsp;
+    <sup>2</sup>Benha University&emsp;
     <sup>3</sup>Wuhan University&emsp;
-    <sup>4</sup>China Telecom&emsp;
+    <sup>4</sup>Birmingham City University&emsp;
+    <sup>5</sup>Duke University&emsp;
+    <sup>6</sup>Wuhan University&emsp;
 </div>
 
-
-> [Tamer Saleh](https://scholar.google.com/citations?hl=en&user=KAmm5ZkAAAAJ&view_op=list_works&sortby=pubdate), [Gui-Song Xia](https://scholar.google.com/citations?user=SAUCVsEAAAAJ&hl=en), [Wen Yang](https://scholar.google.com/citations?user=-aVL-UQAAAAJ&hl=en), [Mohamed Ihmeida](), [Zhuohong Li](), [Shimaa Holail](https://scholar.google.com/citations?user=WKKVqDgAAAAJ&hl=en)
 
 ## Requirements
 
