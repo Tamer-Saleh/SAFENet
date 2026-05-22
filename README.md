@@ -166,7 +166,7 @@ Method | Name | Link
 | ViCxLSTM  | 256 × 256  | 77.4      | [baidu](https://pan.baidu.com/s/1RF_dVf0_TexdKHO3b9JHEA?pwd=zje9) |
 | BiSR-Net  | 256 × 256  | 78.0      | [baidu](https://pan.baidu.com/s/1axnF0VjWGOG7IHqJdspoKg?pwd=9hgc) |
 | SCan-Net  | 256 × 256  | 81.3      | [baidu](https://pan.baidu.com/s/1lY-g7_ZJ_i_EU8rd8-2Hag?pwd=t1hr) |
-| SAFE-Net  | 256 × 256  | 85.3      | [baidu](https://pan.baidu.com/s/1Lev4P2SCZBgdTA8MEVF73A?pwd=yhtn) |
+| SAFE-Net  | 256 × 256  | 85.3      | [baidu](https://pan.baidu.com/s/1Lev4P2SCZBgdTA8MEVF73A?pwd=yhtn#) |
 
 ### S1GFloods
 
