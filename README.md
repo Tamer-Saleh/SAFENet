@@ -132,7 +132,7 @@ New-Dataset | `S1GFloods+7` | [baidu drive](https://pan.baidu.com/s/1SkFGxfFIf7n
               │   ├── test (the same with train)
 
 
-## 1. Method
+## Method
 ![image-20210228153142126](./results/method.png)
 
 > We propose a shifted attention frequency-gated network (SAFE-Net) for flood detection from bi-temporal SAR image pairs.
