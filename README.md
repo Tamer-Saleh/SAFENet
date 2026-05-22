@@ -21,7 +21,9 @@
     </h4>
 
 </div>
-
+    <p align='center'>
+        If you find our work or benchmark helpful for your research, please consider giving us a ⭐!
+    </p>
 
 ## 🔥 News
 
