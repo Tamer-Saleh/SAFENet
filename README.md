@@ -228,7 +228,7 @@ Method | Name | Link
     > Qualitative comparison on the S1GFloods+7 dataset. From left to right: T1 image, T2 image, Ground Truth, DBF-Net, CAS-Net, WBA-Net, BiSR-Net, ViCxLSTM, GLA-Former, SCan-Net, PA-Former, and the proposed SAFE-Net method (Ours).
 
 
-### :page_with_curl: Citation <a name="citing"></a>
+### :page_with_curl: 📜 Citation and References <a name="citing"></a>
 
 ```bibtex
 @ARTICLE{tasaleh2026SAFENet,
@@ -241,6 +241,16 @@ Method | Name | Link
   pages={1-24},
   doi = {},
   }
+
+@article{saleh2024dam,
+  title={DAM-Net: Flood detection from SAR imagery using differential attention metric-based vision transformers},
+  author={Saleh, Tamer and Weng, Xingxing and Holail, Shimaa and Hao, Chen and Xia, Gui-Song},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={212},
+  pages={440--453},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 
 ## 📮 Contact
