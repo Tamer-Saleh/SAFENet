@@ -241,7 +241,7 @@ Method | Name | Link
     > Qualitative comparison on the S1GFloods+7 dataset. From left to right: T1 image, T2 image, Ground Truth, DBF-Net, CAS-Net, WBA-Net, BiSR-Net, ViCxLSTM, GLA-Former, SCan-Net, PA-Former, and the proposed SAFE-Net method (Ours).
 
 
-### :page_with_curl: 📚 Citation and References <a name="citing"></a>
+## 📚 Citation and References <a name="citing"></a>
 
 ```bibtex
 @ARTICLE{tasaleh2026SAFENet,
