@@ -172,14 +172,14 @@ Method | Name | Link
 
 | Method    |Input size  | F1-score  |  Checkpoints   |
 :-:|:-:|:-:|:-:
-| DBF-Net   | 256 × 256  | 62.4      | [baidu]() |
-| WBA-Net   | 256 × 256  | 88.7      | [baidu]() |
-| GLA-Former| 256 × 256  | 93.6      | [baidu]() |
-| CAS-Net   | 256 × 256  | 86.5      | [baidu]() |
-| PA-Former | 256 × 256  | 95.9      | [baidu]() |
-| ViCxLSTM  | 256 × 256  | 95.0      | [baidu]() |
-| BiSR-Net  | 256 × 256  | 94.2      | [baidu]() |
-| SCan-Net  | 256 × 256  | 96.2      | [baidu]() |
+| DBF-Net   | 256 × 256  | 62.4      | [baidu](https://pan.baidu.com/s/10UDVLibBAAei-ijPEfQXtw?pwd=bqj6) |
+| WBA-Net   | 256 × 256  | 88.7      | [baidu](https://pan.baidu.com/s/1xYBx0tPbEmg44GmPfb_yNg?pwd=wmvn) |
+| GLA-Former| 256 × 256  | 93.6      | [baidu](https://pan.baidu.com/s/1WFh_D2sIxlW6HsK4w9hy1g?pwd=e42r) |
+| CAS-Net   | 256 × 256  | 86.5      | [baidu](https://pan.baidu.com/s/1iE7uzC0MznQ9h4GjDwCssQ?pwd=4p1n) |
+| PA-Former | 256 × 256  | 95.9      | [baidu](https://pan.baidu.com/s/1oHl7394Oa2idYsgJA_4uYg?pwd=5pip) |
+| ViCxLSTM  | 256 × 256  | 95.0      | [baidu](https://pan.baidu.com/s/1722TXm42PO6Lfw6NIkM9zg?pwd=s3q9) |
+| BiSR-Net  | 256 × 256  | 94.2      | [baidu](https://pan.baidu.com/s/1Epu9_ef071jouVcaRxS52Q?pwd=5fr8) |
+| SCan-Net  | 256 × 256  | 96.2      | [baidu](https://pan.baidu.com/s/1AcPC7uKPlOT0MtgoWKYIrQ?pwd=tjwy) |
 | SAFE-Net  | 256 × 256  | 96.8      | [baidu](https://pan.baidu.com/s/1s5AcTDEeJG_N4XtBilsHXg?pwd=6e9f#) |
 
 
