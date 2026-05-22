@@ -27,10 +27,9 @@
 
 ## 🛎️ Updates
 
-  
--**`2026/05/22`** Release the SAFE-Net model and new SAR flood datasets.
--**`2026/05/22`** Release the checkpoints weights.
--**`2026/05/20`** The official files of the environment preparation are now available.
+- **`2026/05/22`** Release the SAFE-Net model and new SAR flood datasets.
+- **`2026/05/22`** Release the checkpoints weights.
+- **`2026/05/20`** The official files of the environment preparation are now available.
 
 
 ## Requirements
