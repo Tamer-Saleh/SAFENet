@@ -142,14 +142,14 @@ New-Dataset | `S1GFloods+7` | [baidu drive](https://pan.baidu.com/s/1SkFGxfFIf7n
 
 Method | Name | Link
 :-:|:-:|:-:
-:open_book:	:open_book:	 :open_book: DBF-Net | `DBF-Net` | [paper here](https://ieeexplore.ieee.org/document/10848167)
-:open_book:	:open_book:	 :open_book: WBA-Net | `WBA-Net` | [paper here](https://ieeexplore.ieee.org/document/10605827)
-:open_book:	:open_book:	 :open_book: GLA-Former | `GLA-Former` | [paper here](https://ieeexplore.ieee.org/document/10766648)
-:open_book:	:open_book:	 :open_book: CAS-Net | `CAS-Net` | [paper here ](https://ieeexplore.ieee.org/document/10504920)
-:open_book:	:open_book:	 :open_book: PA-Former | `PA-Former` | [paper here](https://ieeexplore.ieee.org/document/9863867)
-:open_book:	:open_book:	 :open_book: ViCxLSTM | `ViCxLSTM` | [paper here](https://www.sciencedirect.com/science/article/pii/S1569843225004480)
-:open_book:	:open_book:	 :open_book: BiSR-Net | `BiSR-Net` | [paper here](https://ieeexplore.ieee.org/document/9721305)
-:open_book:	:open_book:	 :open_book: SCan-Net | `SCan-Net` | [paper here](https://ieeexplore.ieee.org/document/10443352)
+:open_book:	:open_book:	 :open_book: DBF-Net | `DBF-Net` | [Paper here](https://ieeexplore.ieee.org/document/10848167)
+:open_book:	:open_book:	 :open_book: WBA-Net | `WBA-Net` | [Paper here](https://ieeexplore.ieee.org/document/10605827)
+:open_book:	:open_book:	 :open_book: GLA-Former | `GLA-Former` | [Paper here](https://ieeexplore.ieee.org/document/10766648)
+:open_book:	:open_book:	 :open_book: CAS-Net | `CAS-Net` | [Paper here ](https://ieeexplore.ieee.org/document/10504920)
+:open_book:	:open_book:	 :open_book: PA-Former | `PA-Former` | [Paper here](https://ieeexplore.ieee.org/document/9863867)
+:open_book:	:open_book:	 :open_book: ViCxLSTM | `ViCxLSTM` | [Paper here](https://www.sciencedirect.com/science/article/pii/S1569843225004480)
+:open_book:	:open_book:	 :open_book: BiSR-Net | `BiSR-Net` | [Paper here](https://ieeexplore.ieee.org/document/9721305)
+:open_book:	:open_book:	 :open_book: SCan-Net | `SCan-Net` | [Paper here](https://ieeexplore.ieee.org/document/10443352)
 
 
 
@@ -158,29 +158,44 @@ Method | Name | Link
 
 | Method    |Input size  | F1-score  |       Checkpoints      |
 :-:|:-:|:-:|:-:
-| DBF-Net   | 256 × 256  | 53.3      | [baidu](https://pan.baidu.com/s/1I29tvP0iYvsX0XEysnoR9g?pwd=jh1i ) |
-| WBA-Net   | 256 × 256  | 52.9      | [baidu](https://pan.baidu.com/s/1J2SwF10KSLP80WDmmj3fZw?pwd=rir3) |
-| GLA-Former| 256 × 256  | 65.7      | [baidu](https://pan.baidu.com/s/1V3DAbAHTwqXQWNsCTebeHA?pwd=n9a7) |
-| CAS-Net   | 256 × 256  | 71.3      | [baidu](https://pan.baidu.com/s/1Z4hKwiHHNP3TraEK3gAYsw?pwd=u3cf) |
-| PA-Former | 256 × 256  | 76.7      | [baidu](https://pan.baidu.com/s/1Cg5IceEfMwQXs3wCGECP_g?pwd=gvii) |
-| ViCxLSTM  | 256 × 256  | 77.4      | [baidu](https://pan.baidu.com/s/1RF_dVf0_TexdKHO3b9JHEA?pwd=zje9) |
-| BiSR-Net  | 256 × 256  | 78.0      | [baidu](https://pan.baidu.com/s/1axnF0VjWGOG7IHqJdspoKg?pwd=9hgc) |
-| SCan-Net  | 256 × 256  | 81.3      | [baidu](https://pan.baidu.com/s/1lY-g7_ZJ_i_EU8rd8-2Hag?pwd=t1hr) |
-| SAFE-Net  | 256 × 256  | 85.3      | [baidu](https://pan.baidu.com/s/1Lev4P2SCZBgdTA8MEVF73A?pwd=yhtn#) |
+| DBF-Net   | 256 × 256  | 53.3      | [Model](https://pan.baidu.com/s/1I29tvP0iYvsX0XEysnoR9g?pwd=jh1i ) |
+| WBA-Net   | 256 × 256  | 52.9      | [Model](https://pan.baidu.com/s/1J2SwF10KSLP80WDmmj3fZw?pwd=rir3) |
+| GLA-Former| 256 × 256  | 65.7      | [Model](https://pan.baidu.com/s/1V3DAbAHTwqXQWNsCTebeHA?pwd=n9a7) |
+| CAS-Net   | 256 × 256  | 71.3      | [Model](https://pan.baidu.com/s/1Z4hKwiHHNP3TraEK3gAYsw?pwd=u3cf) |
+| PA-Former | 256 × 256  | 76.7      | [Model](https://pan.baidu.com/s/1Cg5IceEfMwQXs3wCGECP_g?pwd=gvii) |
+| ViCxLSTM  | 256 × 256  | 77.4      | [Model](https://pan.baidu.com/s/1RF_dVf0_TexdKHO3b9JHEA?pwd=zje9) |
+| BiSR-Net  | 256 × 256  | 78.0      | [Model](https://pan.baidu.com/s/1axnF0VjWGOG7IHqJdspoKg?pwd=9hgc) |
+| SCan-Net  | 256 × 256  | 81.3      | [Model](https://pan.baidu.com/s/1lY-g7_ZJ_i_EU8rd8-2Hag?pwd=t1hr) |
+| SAFE-Net  | 256 × 256  | 85.3      | [Model](https://pan.baidu.com/s/1Lev4P2SCZBgdTA8MEVF73A?pwd=yhtn#) |
 
 ### S1GFloods
 
 | Method    |Input size  | F1-score  |  Checkpoints   |
 :-:|:-:|:-:|:-:
-| DBF-Net   | 256 × 256  | 62.4      | [baidu](https://pan.baidu.com/s/10UDVLibBAAei-ijPEfQXtw?pwd=bqj6) |
-| WBA-Net   | 256 × 256  | 88.7      | [baidu](https://pan.baidu.com/s/1xYBx0tPbEmg44GmPfb_yNg?pwd=wmvn) |
-| GLA-Former| 256 × 256  | 93.6      | [baidu](https://pan.baidu.com/s/1WFh_D2sIxlW6HsK4w9hy1g?pwd=e42r) |
-| CAS-Net   | 256 × 256  | 86.5      | [baidu](https://pan.baidu.com/s/1iE7uzC0MznQ9h4GjDwCssQ?pwd=4p1n) |
-| PA-Former | 256 × 256  | 95.9      | [baidu](https://pan.baidu.com/s/1oHl7394Oa2idYsgJA_4uYg?pwd=5pip) |
-| ViCxLSTM  | 256 × 256  | 95.0      | [baidu](https://pan.baidu.com/s/1722TXm42PO6Lfw6NIkM9zg?pwd=s3q9) |
-| BiSR-Net  | 256 × 256  | 94.2      | [baidu](https://pan.baidu.com/s/1Epu9_ef071jouVcaRxS52Q?pwd=5fr8) |
-| SCan-Net  | 256 × 256  | 96.2      | [baidu](https://pan.baidu.com/s/1AcPC7uKPlOT0MtgoWKYIrQ?pwd=tjwy) |
-| SAFE-Net  | 256 × 256  | 96.8      | [baidu](https://pan.baidu.com/s/1s5AcTDEeJG_N4XtBilsHXg?pwd=6e9f#) |
+| DBF-Net   | 256 × 256  | 62.4      | [Model](https://pan.baidu.com/s/10UDVLibBAAei-ijPEfQXtw?pwd=bqj6) |
+| WBA-Net   | 256 × 256  | 88.7      | [Model](https://pan.baidu.com/s/1xYBx0tPbEmg44GmPfb_yNg?pwd=wmvn) |
+| GLA-Former| 256 × 256  | 93.6      | [Model](https://pan.baidu.com/s/1WFh_D2sIxlW6HsK4w9hy1g?pwd=e42r) |
+| CAS-Net   | 256 × 256  | 86.5      | [Model](https://pan.baidu.com/s/1iE7uzC0MznQ9h4GjDwCssQ?pwd=4p1n) |
+| PA-Former | 256 × 256  | 95.9      | [Model](https://pan.baidu.com/s/1oHl7394Oa2idYsgJA_4uYg?pwd=5pip) |
+| ViCxLSTM  | 256 × 256  | 95.0      | [Model](https://pan.baidu.com/s/1722TXm42PO6Lfw6NIkM9zg?pwd=s3q9) |
+| BiSR-Net  | 256 × 256  | 94.2      | [Model](https://pan.baidu.com/s/1Epu9_ef071jouVcaRxS52Q?pwd=5fr8) |
+| SCan-Net  | 256 × 256  | 96.2      | [Model](https://pan.baidu.com/s/1AcPC7uKPlOT0MtgoWKYIrQ?pwd=tjwy) |
+| SAFE-Net  | 256 × 256  | 96.8      | [Model](https://pan.baidu.com/s/1s5AcTDEeJG_N4XtBilsHXg?pwd=6e9f#) |
+
+
+### S1GFloods+7
+
+| Method    |Input size  | F1-score  |  Checkpoints   |
+:-:|:-:|:-:|:-:
+| DBF-Net   | 256 × 256  | 62.4      | [Model]() |
+| WBA-Net   | 256 × 256  | 88.7      | [Model]() |
+| GLA-Former| 256 × 256  | 93.6      | [Model]() |
+| CAS-Net   | 256 × 256  | 86.5      | [Model]() |
+| PA-Former | 256 × 256  | 95.9      | [Model]() |
+| ViCxLSTM  | 256 × 256  | 95.0      | [Model]() |
+| BiSR-Net  | 256 × 256  | 94.2      | [Model]() |
+| SCan-Net  | 256 × 256  | 96.2      | [Model]() |
+| SAFE-Net  | 256 × 256  | 96.8      | [Model](https://pan.baidu.com/s/1ACnxrCzfEXU4pfc0gjv7Lg?pwd=wrxv#) |
 
 
 ## Results
