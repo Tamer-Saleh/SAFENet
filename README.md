@@ -25,10 +25,11 @@
         If you find our work or benchmark helpful for your research, please consider giving us a ⭐!
     </p>
 
-## 🔥 News
+## 🛎️ Updates
 
   
 - `2026/05/21`: The official files of the environment preparation are now available.
+- * **` `**: SAFE-Net has been submitted to ISPRS JP&RS
 
 
 ## Requirements
