@@ -6,8 +6,8 @@
     <a href='https://scholar.google.com/citations?hl=en&user=KAmm5ZkAAAAJ&view_op=list_works&sortby=pubdate' target='_blank'>Tamer Saleh</a><sup>1,2</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=SAUCVsEAAAAJ&hl=en' target='_blank'>Gui-Song Xia</a><sup>✉1</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=-aVL-UQAAAAJ&hl=en' target='_blank'>Wen Yang</a><sup>✉1</sup>&emsp;
-    <a href='' target='_blank'>Mohamed Ihmeida</a><sup>3</sup>&emsp;
-    <a href=''>Zhuohong Li</a><sup>4</sup>&emsp;
+    <a href='https://scholar.google.com/citations?hl=en&user=yLkW4L0AAAAJ&view_op=list_works&sortby=pubdate' target='_blank'>Mohamed Ihmeida</a><sup>3</sup>&emsp;
+    <a href='https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en' target='_blank'>Zhuohong Li</a><sup>4</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=WKKVqDgAAAAJ&hl=en' target='_blank'>Shimaa Holail</a><sup>1</sup>&emsp;
     </h4>
 </div>
