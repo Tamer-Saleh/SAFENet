@@ -180,7 +180,7 @@ Method | Name | Link
 | ViCxLSTM  | 256 × 256  | 95.0      | [baidu]() |
 | BiSR-Net  | 256 × 256  | 94.2      | [baidu]() |
 | SCan-Net  | 256 × 256  | 96.2      | [baidu]() |
-| SAFE-Net  | 256 × 256  | 96.8      | [baidu]() |
+| SAFE-Net  | 256 × 256  | 96.8      | [baidu](https://pan.baidu.com/s/1s5AcTDEeJG_N4XtBilsHXg?pwd=6e9f#) |
 
 
 ## Results
