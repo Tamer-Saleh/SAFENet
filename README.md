@@ -33,19 +33,19 @@
 
 
 # Overview ✨✨✨
-- [Updates 📢](#updates-)
-- [Requirements ✨](#requirements-)
-- [Installation 🛠️](#installation-)
-- [Datasets 📄](#datasets-)
-- [Method 📄](#method-)
-- [Checkpoints ✨](#checkpoints-)
-- [Results 📄](#results-)
-- [Citation 📚](#citation-)
-- [License 🔑](#license-)
+- [🛎️ Updates](#updates-)
+- [✨ Requirements](#requirements-)
+- [🛠️ Installation](#installation-)
+- [📄 Datasets](#datasets-)
+- [📄 Method](#method-)
+- [✨ Checkpoints](#checkpoints-)
+- [📄 Results](#results-)
+- [📚 Citation](#citation-)
+- [🔑 License](#license-)
 
 
 
-## Requirements
+## ✨ Requirements
 
 Before using this repository, make sure you have the following prerequisites installed:
 
@@ -61,7 +61,7 @@ Tested using Python 3.9.0 on a 64-bit Windows operating system.
 conda install pytorch torchvision pytorch-cuda=12.4 -c pytorch -c nvidia
 ```
 
-## Installation
+## 🛠️ Installation
 
 To get started, create the [conda](https://docs.conda.io/projects/conda/en/stable/) environment named `SAFE-FD` by executing the following command:
 ```bash
@@ -73,7 +73,7 @@ Then activate the environment:
 conda activate SAFE_FD
 ```
 
-## Supported Datasets
+## 📄 Supported Datasets
 
 Download the datasets and place them in the `Benchmark` folder.
 
@@ -148,7 +148,7 @@ New-Dataset | `S1GFloods+7` | [baidu drive](https://pan.baidu.com/s/1SkFGxfFIf7n
               │   ├── test (the same with train)
 
 
-## Method
+## 📄 Method
 ![image-20210228153142126](./results/method.png)
 
 > We propose a shifted attention frequency-gated network (SAFE-Net) for flood detection from bi-temporal SAR image pairs.
@@ -169,7 +169,7 @@ Method | Name | Link
 
 
 
-## Checkpoints
+## ✨ Checkpoints
 ## OmbriaS1
 
 | Method    |Input size  | F1-score  |       Checkpoints      |
@@ -214,7 +214,7 @@ Method | Name | Link
 | SAFE-Net  | 256 × 256  | 96.8      | [Model](https://pan.baidu.com/s/1ACnxrCzfEXU4pfc0gjv7Lg?pwd=wrxv#) |
 
 
-## Results
+## 📄 Results
 ## Quantitative
 ![image-20210228153142126](./results/tables.png)
 
@@ -241,7 +241,7 @@ Method | Name | Link
     > Qualitative comparison on the S1GFloods+7 dataset. From left to right: T1 image, T2 image, Ground Truth, DBF-Net, CAS-Net, WBA-Net, BiSR-Net, ViCxLSTM, GLA-Former, SCan-Net, PA-Former, and the proposed SAFE-Net method (Ours).
 
 
-### :page_with_curl: 📜 Citation and References <a name="citing"></a>
+### :page_with_curl: 📚 Citation and References <a name="citing"></a>
 
 ```bibtex
 @ARTICLE{tasaleh2026SAFENet,
@@ -270,7 +270,7 @@ Method | Name | Link
 
 If you are confused about the content of our paper or look forward to further academic exchanges and cooperation, please do not hesitate to contact us. The e-mail address is tamersaleh@whu.edu.cn. We look forward to hearing from you!
 
-## License
+## 🔑 License
 licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use), and models trained using the dataset should not be used outside of research purposes.
 
 ## Related resources
