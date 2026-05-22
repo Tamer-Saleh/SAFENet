@@ -29,7 +29,7 @@
 
   
 - `2026/05/21`: The official files of the environment preparation are now available.
-- * **` `**: SAFE-Net has been submitted to ISPRS JP&RS
+- ` `: 
 
 
 ## Requirements
