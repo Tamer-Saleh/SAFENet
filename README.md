@@ -253,3 +253,8 @@ licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-c
 ## Related resources
 - [ASF-Dataset](https://search.asf.alaska.edu/)
 - [SNAP Toolbox](http://step.esa.int/main/download/)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tamer-Saleh/SAFENet&type=Date)](https://star-history.com/#Tamer-Saleh/SAFENet&Date)
+
