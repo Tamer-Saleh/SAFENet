@@ -182,7 +182,7 @@ Method | Name | Link
 | ViCxLSTM  | 256 × 256  | 77.4      | [Model](https://pan.baidu.com/s/1RF_dVf0_TexdKHO3b9JHEA?pwd=zje9) |
 | BiSR-Net  | 256 × 256  | 78.0      | [Model](https://pan.baidu.com/s/1axnF0VjWGOG7IHqJdspoKg?pwd=9hgc) |
 | SCan-Net  | 256 × 256  | 81.3      | [Model](https://pan.baidu.com/s/1lY-g7_ZJ_i_EU8rd8-2Hag?pwd=t1hr) |
-| SAFE-Net  | 256 × 256  | 85.3      | [Model](https://pan.baidu.com/s/187viwx3q-IGzy3ip34S6jw?pwd=qwqa#) |
+| SAFE-Net  | 256 × 256  | 85.3      | [Model]() |
 
 ### S1GFloods
 
@@ -196,7 +196,7 @@ Method | Name | Link
 | ViCxLSTM  | 256 × 256  | 95.0      | [Model](https://pan.baidu.com/s/1722TXm42PO6Lfw6NIkM9zg?pwd=s3q9) |
 | BiSR-Net  | 256 × 256  | 94.2      | [Model](https://pan.baidu.com/s/1Epu9_ef071jouVcaRxS52Q?pwd=5fr8) |
 | SCan-Net  | 256 × 256  | 96.2      | [Model](https://pan.baidu.com/s/1AcPC7uKPlOT0MtgoWKYIrQ?pwd=tjwy) |
-| SAFE-Net  | 256 × 256  | 96.8      | [Model](https://pan.baidu.com/s/1s5AcTDEeJG_N4XtBilsHXg?pwd=6e9f#) |
+| SAFE-Net  | 256 × 256  | 96.8      | [Model]() |
 
 
 ### S1GFloods+7
@@ -211,7 +211,7 @@ Method | Name | Link
 | ViCxLSTM  | 256 × 256  | 95.0      | [Model]() |
 | BiSR-Net  | 256 × 256  | 94.2      | [Model]() |
 | SCan-Net  | 256 × 256  | 96.2      | [Model]() |
-| SAFE-Net  | 256 × 256  | 96.8      | [Model](https://pan.baidu.com/s/1ACnxrCzfEXU4pfc0gjv7Lg?pwd=wrxv#) |
+| SAFE-Net  | 256 × 256  | 96.8      | [Model]() |
 
 
 ## 📄 Results
