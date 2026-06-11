@@ -1,5 +1,5 @@
 ![demo](results/logl.png)
-<h1 align="center">SAFE-Net: Flood mapping from SAR imagery with a shift-attention and frequency-gated vision transformer</h1>
+<h1 align="center">SAFE-Net: A Shifted-Attention Frequency-Gated Network and Large-Scale Benchmark for Generalizable SAR Flood Mapping</h1>
 
 <div>
     <h4 align="center">
@@ -27,6 +27,7 @@
 
 ## 🛎️ Updates
 
+- **`2026/06/11`** The SAFE-Net baseline and the new benchmark dataset have been submitted to ISPRS JP&RS.
 - **`2026/05/22`** Release the SAFE-Net model and new SAR flood datasets.
 - **`2026/05/22`** Release the checkpoints weights.
 - **`2026/05/20`** The official files of the environment preparation are now available.
@@ -246,7 +247,7 @@ Method | Name | Link
 ```bibtex
 @ARTICLE{tasaleh2026SAFENet,
   Author = {Tamer Saleh, Gui-Song Xia, Wen Yang, Mohamed Ihmeida, Zhuohong Li, Shimaa Holail},
-  Title = {SAFE-Net: Flood mapping from SAR imagery with a shift-attention and frequency-gated vision transformer},
+  Title = {SAFE-Net: A Shifted-Attention Frequency-Gated Network and Large-Scale Benchmark for Generalizable SAR Flood Mapping},
   Journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
   Year = {2026},
   volume={},
