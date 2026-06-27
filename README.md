@@ -1,5 +1,3 @@
-![demo](results/logl.png)
-<h1 align="center">SAFE-Net: A Shifted-Attention Frequency-Gated Network and Large-Scale Benchmark for Generalizable SAR Flood Mapping</h1>
 
 <div>
     <h4 align="center">
@@ -26,11 +24,6 @@
     </p>
 
 ## 🛎️ Updates
-
-- **`2026/06/11`** The SAFE-Net baseline and the new benchmark dataset have been submitted to ISPRS JP&RS.
-- **`2026/05/22`** Release the SAFE-Net model and new SAR flood datasets.
-- **`2026/05/22`** Release the checkpoints weights.
-- **`2026/05/20`** The official files of the environment preparation are now available.
 
 
 # Overview ✨✨✨
@@ -150,9 +143,6 @@ New-Dataset | `S1GFloods+7` | [baidu drive]()
 
 
 ## 📄 Method
-![image-20210228153142126](./results/method.png)
-
-> We propose a shifted attention frequency-gated network (SAFE-Net) for flood detection from bi-temporal SAR image pairs.
 
 
 ## 🔭 Supported SOTA <a name="baselines"></a>
@@ -217,9 +207,6 @@ Method | Name | Link
 
 ## 📄 Results
 ## Quantitative
-![image-20210228153142126](./results/tables.png)
-
-> Quantitative comparison of flood detection results on the S1GFloods+7 test dataset. The best value for each evaluation metric is highlighted in bold red, while the second-best value is underlined in blue. Each metric is reported as the mean (%) ± standard deviation (per-image average).
 
 
 ## Qualitative
@@ -237,9 +224,6 @@ Method | Name | Link
 
 - S1GFloods+7
 
-    ![image-20210228153142126](./results/S1GFloods7.png)
-
-    > Qualitative comparison on the S1GFloods+7 dataset. From left to right: T1 image, T2 image, Ground Truth, DBF-Net, CAS-Net, WBA-Net, BiSR-Net, ViCxLSTM, GLA-Former, SCan-Net, PA-Former, and the proposed SAFE-Net method (Ours).
 
 
 ## 📚 Citation and References <a name="citing"></a>
