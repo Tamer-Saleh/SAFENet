@@ -190,19 +190,7 @@ Method | Name | Link
 | SAFE-Net  | 256 × 256  | 96.8      | [Model]() |
 
 
-### S1GFloods+7
 
-| Method    |Input size  | F1-score  |  Checkpoints   |
-:-:|:-:|:-:|:-:
-| DBF-Net   | 256 × 256  | 62.4      | [Model]() |
-| WBA-Net   | 256 × 256  | 88.7      | [Model]() |
-| GLA-Former| 256 × 256  | 93.6      | [Model]() |
-| CAS-Net   | 256 × 256  | 86.5      | [Model]() |
-| PA-Former | 256 × 256  | 95.9      | [Model]() |
-| ViCxLSTM  | 256 × 256  | 95.0      | [Model]() |
-| BiSR-Net  | 256 × 256  | 94.2      | [Model]() |
-| SCan-Net  | 256 × 256  | 96.2      | [Model]() |
-| SAFE-Net  | 256 × 256  | 96.8      | [Model]() |
 
 
 ## 📄 Results
